@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vinicius Oliveira",
+      "email": "vini.gato_surfista@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Mangueirinha",
+      "email": "mangueirinha.desentupidor@bol.com.br"
+    },
+    {
+      "name": "Teste",
+      "email": "teste@teste.com",
+      "id": 3
+    },
+    {
+      "name": "Dieguero",
+      "email": "didi@palmeiras.com",
+      "id": 5
+    },
+    {
+      "name": "Andrezola",
+      "email": "andre@zola.com",
+      "id": 6
+    }
+  ],
+  "todo": [
+    {
+      "id": 1,
+      "date": "01/01/2001",
+      "job": "Tarefa 1"
+    },
+    {
+      "date": "2018-10-02",
+      "job": "tarefa teste 3",
+      "id": 3
+    }
+  ]
+}

@@ -1,2 +1,3 @@
-# reactjs
-Repository with my React.js apps
+# React JS
+
+Repository with React JS projects
